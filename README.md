@@ -35,7 +35,7 @@ In addition to security, the convenience provided by this system makes it more a
 #### 2.1 Pinout Design
 The design of the IoT-based fingerprint voting system consists of multiple interconnected components, ensuring secure and efficient voting. The fingerprint sensor is responsible for capturing and verifying voter identity, while the Arduino Uno acts as the processing unit, analyzing the fingerprint data and determining voting eligibility. Upon successful authentication, the system allows the user to cast a vote, which is recorded digitally. An LED indicator provides immediate feedback, ensuring transparency in the voting process. The entire system operates in real-time, enhancing both security and speed. The modular design of the architecture allows for future enhancements, such as integration with cloud-based databases or blockchain for added security.
 
-![Pin Diagram](images\Picture10.jpg)
+![Pin Diagram](images/Picture10.jpg)
 
 #### 2.2 Overall Design 
 The system consists of the following key components:
@@ -124,14 +124,14 @@ In conclusion, the IoT-based fingerprint voting system has laid the groundwork f
 4. Kumar, P. & Sharma, R. (2020). "Biometric Authentication in IoT Voting Systems: Challenges and Solutions." International Journal of Computer Science, 28(4), 89-102.
 
 ### SCREENSHOTS
-![Picture](images\Picture1.png)
-![Picture](images\Picture2.png)
-![Picture](images\Picture3.png)
-![Picture](images\Picture4.png)
-![Picture](images\Picture5.png)
-![Picture](images\Picture6.png)
-![Picture](images\Picture7.png)
-![Picture](images\Picture8.png)
+![Picture](images/Picture1.png)
+![Picture](images/Picture2.png)
+![Picture](images/Picture3.png)
+![Picture](images/Picture4.png)
+![Picture](images/Picture5.png)
+![Picture](images/Picture6.png)
+![Picture](images/Picture7.png)
+![Picture](images/Picture8.png)
 
 ### MODEL
 ![Picture](images\Picture9.jpg)

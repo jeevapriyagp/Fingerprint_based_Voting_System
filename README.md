@@ -134,5 +134,5 @@ In conclusion, the IoT-based fingerprint voting system has laid the groundwork f
 ![Picture](images/Picture8.png)
 
 ### MODEL
-![Picture](images\Picture9.jpg)
+![Picture](images/Picture9.jpg)
 
